@@ -12,8 +12,6 @@ const int pwmPinVLow = 5;   // PWM output pin for phase V low side
 const int pwmPinWHigh = 6; // PWM output pin for phase W high side
 const int pwmPinWLow = 7;   // PWM output pin for phase W low side
 
-int pwmFreq
-
 const int tableSize = 72;  // Size of sine lookup table
 const float sineSize = 36;    // Size of sine wave
 int sineTable[tableSize];
