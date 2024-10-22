@@ -1,3 +1,11 @@
+/*
+
+!! Not Completed !!
+
+*/
+
+
+
 // sine wave control for Arduino Mega (ATMega2560)
 // hall sensor feedback, no sensorless control
 #include <avr/io.h>
