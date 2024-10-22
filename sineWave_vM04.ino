@@ -1,5 +1,6 @@
 // sine wave PWM, open loop control for Arduino Mega (ATMega2560)
-// Hall sensor to get omega
+// Hall sensor to get halfT
+// adjust by duty
 
 #include <avr/io.h>
 #include <avr/interrupt.h>
